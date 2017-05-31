@@ -1,7 +1,7 @@
 # Homework - 3
-# Languages: HTML, CSS 
-# Frameworks: Bootstrap Topics: 
-# Bootstrap, divs, rows
+### Languages: HTML, CSS 
+### Frameworks: Bootstrap 
+### Topics: Bootstrap, divs, and rows.
  
 ###### Overview: In this project, we’ll create a photo-based fanpage!
  
